@@ -62,7 +62,7 @@ body {
   
   background-color: red;
   border-radius: 2px;
-  max-width: 40rem;
+  max-width: 10rem;
   height: 45px;
   border-radius: 7px;
   margin-right: 20px;
@@ -554,7 +554,20 @@ border: solid 1px rgb(175, 173, 173);
   margin-top: 10vh
 }
 
-
+.btnagendar1{
+  
+  background-color: red;
+  border-radius: 2px;
+  max-width: 40rem;
+  height: 45px;
+  border-radius: 7px;
+  margin-right: 20px;
+  border: none;
+  cursor: pointer;
+  color: white;
+  
+}
+  
 .butoes {
   display: flex;
   text-align: left;
@@ -781,4 +794,5 @@ cursor: pointer;
   .lista {
     display:none;
   }
+
 }
